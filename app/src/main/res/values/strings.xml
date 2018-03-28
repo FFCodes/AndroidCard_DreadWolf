@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidCard</string>
+    <string name="the_slow_arrow">"The god Fen'Harel was asked by a village to kill a great beast. He came to the beast at dawn, and saw its strength, and knew it would slay him if he fought it. \n\nSo instead, he shot an arrow up into the sky. The villagers asked Fen'Harel how he would save them, and he said to them, 'When did I say that I would save you?' And he left, and the great beast came into the village that night and killed the warriors, and the women, and the elders. It came to the children and opened its great maw, but then the arrow that Fen'Harel had loosed fell from the sky into the great beast's mouth, and killed it. The children of the village wept for their parents and elders, but still they made an offering to Fen'Harel of thanks, for he had done what the villagers had asked. \n\nHe had killed the beast, with his cunning, and a slow arrow that the beast never noticed."</string>
+    <string name="fen_harel_greeting">"Ar-melana dirthavaren. Revas vir-anaris."</string>
+</resources>
